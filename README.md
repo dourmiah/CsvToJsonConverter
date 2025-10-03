@@ -71,8 +71,8 @@ Les tests unitaires s'effectuent via le projet CsvToJsonConverterTest.
 │    │    └── ReadFile.cs
 │    ├── Writer/
 │    │    └── WriteFile.cs
-│    ├── Program.cs
-│    └── Readme.md
+│    └── Program.cs
+│    
 │
 └── CsvToJsonConverterTest
 
