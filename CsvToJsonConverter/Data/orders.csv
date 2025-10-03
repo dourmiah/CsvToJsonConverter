@@ -1,0 +1,11 @@
+OrderId,CustomerName,ProductName,Quantity,Price
+1001,Jane Doe,Laptop,1,1200
+1002,John Smith,Mouse,2,25
+1001,Jane Doe,Mouse,1,25
+1003,Alice Martin,Keyboard,1,80
+1004,Jane Doe,Laptop,1,1200
+1003,Alice Martin,Mouse,1,25
+1005,Bob Dupont,Monitor,2,300
+1006,Claire Lefevre,Headphones,1,150
+1006,Claire Lefevre,Mouse,1,25
+1002,John Smith,Keyboard,1,80

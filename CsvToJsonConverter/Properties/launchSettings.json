@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CsvToJsonConverter": {
+      "commandName": "Project",
+      "commandLineArgs": "D:\\Test\r\nD:\\Test"
+    }
+  }
+}

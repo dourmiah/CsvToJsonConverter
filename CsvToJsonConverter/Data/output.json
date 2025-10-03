@@ -1,0 +1,88 @@
+[
+  {
+    "OrderId": "1001",
+    "CustomerName": "Jane Doe",
+    "Products": [
+      {
+        "ProductName": "Laptop",
+        "Quantity": 1,
+        "Price": 1200
+      },
+      {
+        "ProductName": "Mouse",
+        "Quantity": 1,
+        "Price": 25
+      }
+    ]
+  },
+  {
+    "OrderId": "1002",
+    "CustomerName": "John Smith",
+    "Products": [
+      {
+        "ProductName": "Mouse",
+        "Quantity": 2,
+        "Price": 25
+      },
+      {
+        "ProductName": "Keyboard",
+        "Quantity": 1,
+        "Price": 80
+      }
+    ]
+  },
+  {
+    "OrderId": "1003",
+    "CustomerName": "Alice Martin",
+    "Products": [
+      {
+        "ProductName": "Keyboard",
+        "Quantity": 1,
+        "Price": 80
+      },
+      {
+        "ProductName": "Mouse",
+        "Quantity": 1,
+        "Price": 25
+      }
+    ]
+  },
+  {
+    "OrderId": "1004",
+    "CustomerName": "Jane Doe",
+    "Products": [
+      {
+        "ProductName": "Laptop",
+        "Quantity": 1,
+        "Price": 1200
+      }
+    ]
+  },
+  {
+    "OrderId": "1005",
+    "CustomerName": "Bob Dupont",
+    "Products": [
+      {
+        "ProductName": "Monitor",
+        "Quantity": 2,
+        "Price": 300
+      }
+    ]
+  },
+  {
+    "OrderId": "1006",
+    "CustomerName": "Claire Lefevre",
+    "Products": [
+      {
+        "ProductName": "Headphones",
+        "Quantity": 1,
+        "Price": 150
+      },
+      {
+        "ProductName": "Mouse",
+        "Quantity": 1,
+        "Price": 25
+      }
+    ]
+  }
+]

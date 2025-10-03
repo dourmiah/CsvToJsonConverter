@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36429.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsvToJsonConverter", "CsvToJsonConverter\CsvToJsonConverter.csproj", "{3207587C-E622-330C-AC56-035FAABD9577}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsvToJsonConverterTest", "CsvToJsonConverterTest\CsvToJsonConverterTest.csproj", "{67905F6B-73AA-D316-87A6-5AA2A27A6915}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3207587C-E622-330C-AC56-035FAABD9577}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3207587C-E622-330C-AC56-035FAABD9577}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3207587C-E622-330C-AC56-035FAABD9577}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3207587C-E622-330C-AC56-035FAABD9577}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67905F6B-73AA-D316-87A6-5AA2A27A6915}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67905F6B-73AA-D316-87A6-5AA2A27A6915}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67905F6B-73AA-D316-87A6-5AA2A27A6915}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67905F6B-73AA-D316-87A6-5AA2A27A6915}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {676515B6-C727-494C-AD6C-B044DDF52C94}
+	EndGlobalSection
+EndGlobal
