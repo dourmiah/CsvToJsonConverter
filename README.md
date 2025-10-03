@@ -26,14 +26,13 @@ Application console permettant de convertir un fichier au format CSV en un fichi
 
 ## Installation
 
-1. Créer un répertoire sur le disque dur pour l'installation de l'application.
-2. Dézipper le fichier d'archive dans ce répertoire.
-3. Créer un répertoire pour stocker les fichiers de données (CSV, JSON). Exmple D:\Test
+1. Cloner le dépôt: https://github.com/dourmiah/CsvToJsonConverter.git
+2. Ouvrir le projet dans l'IDE (Visual Studio ou Visual Studio Code)
+3. Créer un répertoire pour stocker les fichiers de données (CSV, JSON). Exemple D:\Test
 4. Copier le fichier orders.csv dans ce répertoire.
 5. Ouvrir une console dans le répertoire du projet \CsvToJsonConverter
 6. Pour lancer le programme, taper par exemple: `dotnet run D:\Test D:\Test`
 
-Tous les fichiers nécessaires au fonctionnement de l'application sont contenus dans l'archive.
 
 ## Utilisation (exécutable)
 
