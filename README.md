@@ -55,23 +55,31 @@ Les tests unitaires s'effectuent via le projet CsvToJsonConverterTest.
 .
 ├── CsvToJsonConverter
 │    │
-│    ├── Converter/
-│    │    ├── Format/
+│    ├── \Converter
+│    │    ├── \Format
 │    │    │     ├── JSONCreator.cs
 │    │    │     └── JSONFile.cs
 │    │    ├── Creator.cs
 │    │    └── IFile.cs
-│    ├── Data/
+│    ├── \Data
 │    │    ├── orders.csv
 │    │    └── output.json
-│    ├── Reader/
+│    ├── \Reader
 │    │    ├── IReadFile.cs
 │    │    └── ReadFile.cs
-│    ├── Writer/
+│    ├── \Writer
 │    │    └── WriteFile.cs
-│    └── Program.cs
+│	 │
+│    ├── \Logs
+│	 │
+│	 └── Program.cs
 │
 │
 └── CsvToJsonConverterTest
+	 │
+	 ├── \Data
+	 │	   ├── expected.json
+	 │	   └── test_orders.csv
+	 └── ConverterTests.cs   
 
 ```
