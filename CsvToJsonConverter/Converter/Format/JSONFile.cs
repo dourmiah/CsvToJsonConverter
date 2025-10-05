@@ -1,5 +1,4 @@
-﻿
-using Serilog;
+﻿using Serilog;
 using System.Text.Json;
 
 namespace CsvToJsonConverter.Converter.Format

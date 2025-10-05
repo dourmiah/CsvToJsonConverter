@@ -1,0 +1,34 @@
+﻿[
+  {
+    "OrderId": "1001",
+    "CustomerName": "Jane Doe",
+    "Products": [
+      {
+        "ProductName": "Laptop",
+        "Quantity": 1,
+        "Price": 1200
+      },
+      {
+        "ProductName": "Mouse",
+        "Quantity": 1,
+        "Price": 25
+      }
+    ]
+  },
+  {
+    "OrderId": "1002",
+    "CustomerName": "John Smith",
+    "Products": [
+      {
+        "ProductName": "Mouse",
+        "Quantity": 2,
+        "Price": 25
+      },
+      {
+        "ProductName": "Keyboard",
+        "Quantity": 1,
+        "Price": 80
+      }
+    ]
+  }
+]

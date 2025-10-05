@@ -1,0 +1,5 @@
+﻿OrderId,CustomerName,ProductName,Quantity,Price
+1001,Jane Doe,Laptop,1,1200
+1002,John Smith,Mouse,2,25
+1001,Jane Doe,Mouse,1,25
+1002,John Smith,Keyboard,1,80

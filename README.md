@@ -12,7 +12,7 @@ Application console permettant de convertir un fichier au format CSV en un fichi
 - Logs
 - Conversion extensible à d'autres formats de fichiers :
 
-  <i>Pour ajouter un nouveau format cible: Sur le modèle de la conversion en JSON, ajouter la logique de conversion dans un fichier <format_fichier>Creator.cs et un fichier <format_fichier>File.cs dans CsvToJsonConverter\Converter\Format.
+  <i>Pour ajouter un nouveau format cible : Sur le modèle de la conversion en JSON, ajouter la logique de conversion dans un fichier <format_fichier>Creator.cs et un fichier <format_fichier>File.cs dans CsvToJsonConverter\Converter\Format.
   Exemple : XLSCreator.cs + XLSFile.cs</i>
 
 ## Technologies utilisées
